@@ -1,2 +1,2 @@
 # rest-api
-rest api repository
+rest api repository fot an api
